@@ -1,0 +1,150 @@
+/* No CSS *//*# sourceMappingURL=Style.css.map */
+.block1{
+    background: #000;
+    color: #fff;
+    padding-top: 10px;
+    height: 45px;
+   
+}
+.form-controls{
+    width: 300px;
+    border-radius: 20px;
+    height: 7vh;
+    border: 3px solid #99060b;
+    font-weight: bolder;
+    color: #99060b !important;
+}
+.btn-danger{
+    border-radius: 20px;
+    height: 7vh;
+    width: 100px;
+}
+.nav-link{
+    color: #000;
+    font-weight: 600;
+}
+.nav-link:hover{
+    color: #99060b;
+    text-decoration: line-through;
+}
+.line{
+    border: 2px solid #99060b;
+    width: 800px;
+}
+.phone{
+    background-color: #99060b;
+    color: #fff;
+    display: inline-block;
+    padding: 8px 50px 6px 20px!important;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin-top: 3px;
+}
+.ppp{
+    width: 15rem;
+    margin-left: -12px;
+}
+.df{
+    width: 750px;
+   
+}
+.sd{
+    width: 800px;
+}
+.lines{
+    border: 2px solid #99060b;
+    width: 1100px;
+}
+.lined{
+    border: 2px solid #99060b;
+    width: 1348px;
+}
+.of{
+    border: 2px solid #99060b;
+    width: 1115px; 
+}
+.fr{
+    color: #000;
+}
+.jk{
+    color: #000;
+}
+.fr:hover{
+    color: #99060b !important;
+}
+.ogh{
+    border: 2px solid #99060b;
+    width: 550px; 
+}
+.phones{
+    background-color: #99060b;
+    color: #fff;
+    display: inline-block;
+    padding: 8px 50px 6px 20px!important;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin-top: 3px; 
+}
+.og{
+    border: 2px solid #99060b;
+    width: 520px; 
+    margin-left: 25px;
+}
+.op{
+    border: 2px solid #99060b;
+    width: 1120px;
+}
+.opp{
+    border: 2px solid #99060b;
+    width: 740px; 
+
+}
+
+.watch{
+    width: 1150px;
+    height: 40vh;
+    background: #fff;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.xra ul li{
+    list-style: none;
+}
+.xra ul li :hover{
+    text-decoration: underline;
+}
+.you ul li{
+    list-style: none;
+    color: #dd2d2d;
+}
+.zebra{
+    width: 1150px;
+    height: 10vh;
+    background:#212529;
+    
+    margin-left: 100px;
+}
+.abcd{
+    color: #fff;
+   margin-left: 400px;
+   padding-top: 30px;
+}
+.you{
+    height: 30vh;
+    object-fit: contain;
+}
+.card-title{
+    height: 8vh;
+}
+.gin{
+    height: 8vh;
+}
+.gi{
+    height: 9vh;
+}
+.kio{
+    margin-bottom: 60px;
+}
+.lk{
+    margin-top: -20px;
+}
